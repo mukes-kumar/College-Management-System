@@ -1,0 +1,6 @@
+Admin login ::--- Email :- demo.admin@jecrc.ac.in
+
+
+Staff login Interface ::- Email :- demo.staff@jecrc.ac.
+
+Student login Interface ::- Email :- demo2.student@jecrc.ac.in
